@@ -8,4 +8,7 @@ Steps to Run:
 1- Clone the project
 2- run- npm install
 3- Then run - node server.js
-4- For testing different scenarios ine can use Postman.
+4- For testing different scenarios one can use Postman.
+
+Steps to run Unit Tests:
+1- run - npm test
